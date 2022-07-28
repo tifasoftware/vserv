@@ -1,0 +1,8 @@
+- [x] Create Login
+- [x] Create Record Lookup
+- [x] Create Record Deletion
+- [x] Create Record Creation
+- [X] Create Signup
+- [x] Implement Group Permissions
+- [X] Prevent Overlap
+- [x] Prevent Blanks
